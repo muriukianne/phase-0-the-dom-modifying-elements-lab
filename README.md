@@ -205,7 +205,7 @@ For example, we could create an `alert` class that turns the text red (using the
 CSS `color` attribute) and makes it big (using the CSS `font-size` attribute).
 We can then use JavaScript to first grab the element and then add the class by
 updating the element's `className` property. This has the same effect as setting
-the `class` property in the HTML. The `className` property expects a `String`
+the `class` property in the HTML. The `claelement.className = "pet-listing dog";ssName` property expects a `String`
 with one or more class names, separated by spaces:
 
 ```js
